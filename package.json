@@ -24,7 +24,7 @@
     "chalk": "3.0.0",
     "contentful-import": "7.6.1",
     "dotenv": "8.2.0",
-    "eslint": "6.6.0",
+    "eslint": "7.28.0",
     "eslint-plugin-react": "7.16.0",
     "gatsby": "2.18.1",
     "gh-pages": "2.1.1",
